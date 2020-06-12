@@ -18,10 +18,16 @@ Identified Gradient Boosting Regression Prediction Model as the best model with 
 ## Prerequisites
 
 conda install -c intel scikit-learn
+
 conda install pandas
-conda install -c anaconda numpy
+
+conda install -c anaconda numpy 
+
 conda install -c conda-forge matplotlib
+
 conda install -c anaconda jupyter
+
 conda install seaborn
+
 conda install -c conda-forge jupyterlab
 
