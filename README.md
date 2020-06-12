@@ -10,7 +10,8 @@ Used Feature Engineering to extract features such as Zip Code, Household, Total 
 Identified Gradient Boosting Regression Prediction Model as the best model with 85% prediction accuracy for future price change for California Housing Dataset.
 
 
-## Tableau Dashboard : https://public.tableau.com/profile/bhoomika.patel#!/vizhome/california_housing/Dashboard2
+## Tableau Dashboard 
+ https://public.tableau.com/profile/bhoomika.patel#!/vizhome/california_housing/Dashboard2
 
 
 
